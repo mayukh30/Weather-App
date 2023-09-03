@@ -1,0 +1,30 @@
+.yo{
+    display: flex !important;
+    justify-content: center !important;
+    
+}
+.you{
+    text-align: left !important;
+}
+
+.sid{
+    display: flex !important;
+    justify-content: end !important;
+}
+
+
+
+
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+h4,li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+ 
+.ott{
+    display: flex !important;
+    justify-content: center !important;
+}
